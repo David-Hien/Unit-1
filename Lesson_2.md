@@ -3,3 +3,4 @@
 ## My first drawing of a computer
 
 ![](IMG_0812.JPG)
+**Fig.1** My first try at drawing a computer
