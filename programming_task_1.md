@@ -7,8 +7,8 @@ b = int(input())
 
 if a == 10 or b == 10 or a + b == 10:
 
-  print("TRUE")
-  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; print("TRUE")
+
 else:
 
-  print("FALSE")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; print("FALSE")
