@@ -21,3 +21,6 @@ Although I spend more time than I initially planned to take to develope the game
 
 ## Question 6: What didn't work for you during the development of Unit 1?
 Because my plan wasn't clear, I struggle with time management and had to do a lot more work close to the deadline.
+
+## Question 8: A developer is responsible only for the accompolishment of the success criteria. Do you agree or disagree? Defend your answer.
+I disagree to the statement that it's only the developers' job to fulfil the requirements of the success criteria. Although that is minimum standard, there are many people that goes beyond this, carrying the responsibilities for their programs as long as it exists.
